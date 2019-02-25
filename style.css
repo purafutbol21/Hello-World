@@ -1,3 +1,26 @@
 body{
-    background-color: red;
+    font-family: PT Sans Narrow;  
+    text-transform: uppercase;
+
+    background-color: pink;
+ 
+}
+   .nav-link {
+        opacity: 0.7;
+    }
+    
+    .nav-link:hover {
+        opacity: 1;
+        background-color: green; 
+    }
+    
+ .nav-item:hover{
+     background-color:orange;
+}
+    
+header {
+    height: 600px;
+    width:100%;
+    background-image: url (background.jpg");
+    background-size: cover;
 }
